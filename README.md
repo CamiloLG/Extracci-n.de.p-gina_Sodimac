@@ -43,11 +43,11 @@ Más especificamente en el tema a tratar las marcas que se pueden encontrar en *
 | Bs | 121x14.3 | $18.890 |
 | Global Wood | 130x80.8 | $18.390 |
 | Globalgood | 130x80.8 | $18.390 |
-| Klipen | 1383x193 | $16.660 |
-| Klipen | 1215x196 | $17.890 |
+| Klipen | 121.5x19.63 | $17.890 |
+| Klipen | 138.3x19.3 | $16.660 |
 | Holztek | 121x14.3 | $14.990 |
 | Holztek | 128.5x19.2 | $9.650 - $10.068 |
 
 *El espesor de todas las marcas es de 8mm*
 
-Una vez visto estos datos muestra como los precios por metro cuadrado de los extremos presentan una diferencia del 50% en productos que satisfacen la misma necesidad. Pero, que por elementos como calidad en materiales, texturas o incluso el color les ofrece a los clientes una gama de productos a escoger para satisfacer sus gustos y estándares básicos en materiales de construcción.
+Una vez visto estos datos muestra como los precios por metro cuadrado de los extremos presentan una diferencia del 50% en productos que satisfacen la misma necesidad y teniendo ciertas caracteristicas muy similares como la resistencia al trafico y al desgaste con clasificación (AC-3 o AC-4). Pero, que por elementos como calidad en materiales, texturas o incluso el color les ofrece a los clientes una gama de productos a escoger para satisfacer sus gustos y estándares básicos en materiales de construcción.
