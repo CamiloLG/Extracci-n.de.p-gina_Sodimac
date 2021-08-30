@@ -3,7 +3,7 @@
 
 ![Imagen.de.Sodimac](https://github.com/CamiloLG/Extracci-n.de.p-gina_Sodimac/blob/main/Logo_Homecenter_Sodimac.png)
 
-En la pagina de *[Sodimac](https://www.sodimac.cl/sodimac-cl/)* se pueden encontrar una gran variedad de productos desde materiales de construcción hasta elementos para automoviles, como los que se verán a continuación:
+En la página de *[Sodimac](https://www.sodimac.cl/sodimac-cl/)* se pueden encontrar una gran variedad de productos desde materiales de construcción hasta elementos para automóviles, como los que se verán a continuación:
 
 ![Ventas.Sodimac](https://github.com/CamiloLG/Extracci-n.de.p-gina_Sodimac/blob/main/Cosas%20para%20vender.png)
 
@@ -20,9 +20,9 @@ Pero se venden muchos más tipos de **Pisos y Revestimiento** entre los que se e
 
 **Pisos Flotantes**
 
-En el momento de consulta, se venden las siguientes marcas:
+En el momento de consulta, a continuación se presentarán las marcas vendidas en la página junto a los colores que se pueden comprar:
 
-| Marca | Cantidad vendida en la pagina |
+| Marca | Cantidad vendida en la página |
 | ------ | :-----: |
 | Klipen | 3 |
 | Bs | 1 |
@@ -30,15 +30,14 @@ En el momento de consulta, se venden las siguientes marcas:
 | Globalgood | 1 |
 | Holztek | 5 |
 
-Los colores que manejan son:
+Colores:
+  - Pino 
+  - Roble
+  - Café (variaciones)
 
-- Pino 
-- Roble
-- Cafe (variaciones)
+Más específicamente en el tema a tratar las marcas que se pueden encontrar en *Pisos flotantes laminado* presentan diferencias en tamaños y precios
 
-Más especificamente en el tema a tratar las marcas que se pueden encontrar en *Pisos flotantes laminado* presentan diferencias en tamaños y precios
-
-| Marca | Dimension (cm)| Precio (m2) |
+| Marca | Dimensión (cm)| Precio (m2) |
 | ----- | :-----: | :-----: |
 | Bs | 121x14.3 | $18.890 |
 | Global Wood | 130x80.8 | $18.390 |
@@ -50,4 +49,4 @@ Más especificamente en el tema a tratar las marcas que se pueden encontrar en *
 
 *El espesor de todas las marcas es de 8mm*
 
-Una vez visto estos datos muestra como los precios por metro cuadrado de los extremos presentan una diferencia del 50% en productos que satisfacen la misma necesidad y teniendo ciertas caracteristicas muy similares como la resistencia al trafico y al desgaste con clasificación (AC-3 o AC-4). Pero, que por elementos como calidad en materiales, texturas o incluso el color les ofrece a los clientes una gama de productos a escoger para satisfacer sus gustos y estándares básicos en materiales de construcción.
+Una vez visto estos datos muestra como los precios por metro cuadrado de los extremos presentan una diferencia del 50% en productos que satisfacen la misma necesidad y teniendo ciertas características muy similares como la ubicación sugerida para su instalación, la resistencia al tráfico y además su resistencia al desgaste con clasificación (AC-3 o AC-4). Pero, que por elementos como calidad en materiales, texturas e incluso el color les ofrece a los clientes una gama de productos a escoger y así satisfacer sus gustos y estándares básicos en materiales de construcción.
